@@ -32,9 +32,17 @@ main{
     left: 50%;
     transform:translate(-50%,-50%);
 
-
+/* a parte de cima foi na aula 3 do projeto redes sociais  */
     height: 627px;
     width: 311px;
     background: url('../imagens/frame-iphone.png') no-repeat;
 
+}
+
+iframe#tela{
+    position: relative;
+    top: 80px;
+    left: 21px;
+    width: 268px;
+    height: 470px;
 }
