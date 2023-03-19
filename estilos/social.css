@@ -16,13 +16,13 @@ img{
 a{
     display: block;
     margin: 0px;
-    background-color: rgb(17, 5, 126);
+    background-color: rgb(218, 0, 247);
     color: white;
     padding: 20px;
     text-align: center;
-   font-size: xx-large;
+    font-size: xx-large;
     text-decoration: none;  
 }
 a:hover{
-    background-color: blueviolet;
+    background-color: rgb(18, 18, 19);
 }
